@@ -12,10 +12,8 @@ Módulo Driver Ponte H L298N para controle dos motores DC.
 O grande barato é que utilizaremos um código reduzido e acessível para iniciantes no mundo da eletrônica embarcada. 
 Além de pensarmos numa maneira de utilizar o mínimo possível de componentes. Sejam bem vindos e vamos começar a diversão. 
 
-<img src="http://portaldoarduino.com.br/wp-content/uploads/2019/03/montagem-final-1024x576.jpg" />
+<img src="[http://portaldoarduino.com.br/wp-content/uploads/2019/03/montagem-final-1024x576.jpg](https://blog.arduinoomega.com/wp-content/uploads/2019/03/montagem-final.jpg)" />
 
 ## Veja o tutorial completo em <a href="http://portaldoarduino.com.br/robo-autonomo-basico-com-sensor-ultrassonico-hc-sr04/" target="_blank"> Portal do Arduino - Robô Autônomo Básico com Arduino Nano e Sensor Ultrassônico HC-SR04</a>
 
 ### Tutorial por Alex da Rocha Mattos do <a href="https://www.instagram.com/curtoecircuito/"> Curto e Circuito</a>.
-### curtoeckt@gmail.com
-
